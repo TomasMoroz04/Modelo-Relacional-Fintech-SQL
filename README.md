@@ -70,7 +70,7 @@ El esquema implementa **jerarquías de generalización y especialización**, rep
 
 ## 📊 Consultas y operaciones resueltas
 
-El archivo principal del proyecto es `Script_MP.sql`.
+El archivo principal del proyecto es `SCRIPT-Modelo-Relacional-Fintech.sql`.
 
 ### Parte 1: consultas analíticas y auditoría
 
@@ -92,7 +92,7 @@ El archivo principal del proyecto es `Script_MP.sql`.
 ## 🚀 Cómo ejecutar el script
 
 1. Abrí **MySQL Workbench** o un cliente compatible con MySQL.
-2. Abrí el archivo `Script_MP.sql`.
+2. Abrí el archivo `SCRIPT-Modelo-Relacional-Fintech.sql`.
 3. Ejecutá el script completo.
 
 El script está diseñado para crear el esquema `mercadopago`, definir las 13 tablas con sus restricciones, cargar los lotes de prueba y ejecutar las consultas de verificación.
